@@ -9,13 +9,13 @@ AWS ECS, AWS PostgreSQL RDS, Python/Flask API, Python ETL, React Web, Jupyter, M
 
 ## Powerline Analytics
 
-React web app for visualizing smart sensor data placed on powerlines.  Part of the Powerline Project.
+React web app for visualizing smart sensor data placed on powerlines.  Source code fully developed and maintained by me (2020).  Part of the Powerline Project.
 
 ![Visualization of power line sensor data](images/powerline-analytics.png)
 |:--:| 
-| *Web app showing real-time visualizations of power line sensor data.  Chart shows acceleration experienced by this power line segment due to wind, vibrations, and in theory, the power line falling to the ground.  One, two, and three standard deviations from normal are shown for reference.* |
+| *Screenshot of web app showing real-time visualizations of power line sensor data.  Chart shows acceleration experienced by this power line segment due to wind, vibrations, and in theory, the power line falling to the ground.  One, two, and three standard deviations from normal are shown for reference.* |
 
-React, Axios, S3, API
+React, Axios, D3, S3, API
 
 
 
