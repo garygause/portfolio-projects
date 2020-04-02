@@ -11,6 +11,12 @@ AWS ECS, AWS PostgreSQL RDS, Python/Flask API, Python ETL, React Web, Jupyter, M
 
 React web app for visualizing smart sensor data placed on powerlines.  Part of the Powerline Project.
 
-![](images/powerline-analytics.png)
+![Visualization of power line sensor data](images/powerline-analytics.png)
+|:--:| 
+| *Visualization of power line sensor data* |
+
+React, Axios, S3, API
+
+
 
 
