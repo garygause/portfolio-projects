@@ -13,7 +13,7 @@ React web app for visualizing smart sensor data placed on powerlines.  Part of t
 
 ![Visualization of power line sensor data](images/powerline-analytics.png)
 |:--:| 
-| *Visualization of power line sensor data* |
+| *Web app showing visualizations of power line sensor data.  Chart shows acceleration on the power line due to wind, vibrations, and in theory, power line falling to the ground.* |
 
 React, Axios, S3, API
 
