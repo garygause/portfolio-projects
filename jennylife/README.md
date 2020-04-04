@@ -16,6 +16,8 @@ React, Axios, API
 
 ## Android App
 
+Native Android app that allows you to apply for life insurance.
+
 [Google Play Listing](https://play.google.com/store/apps/details?id=com.jennylife.jennylife&hl=en_US)
 
 ![Android App](images/jennylife-android.png)
