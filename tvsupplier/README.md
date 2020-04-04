@@ -6,15 +6,9 @@ Written in React Native, this app allows a supplier to scan a QR code on an asse
 
 Released on Android and iOs as an internal company app.  Interfaces with a backend python API for authentication and data.  Multi-tenant, company and job sites are determined by the login.
 
-![TVSupplier Login Screen](images/tvsupplier-screenshot-login-small.png)
-|:--:|
-| *Screenshot of the TVSupplier login screen on Android* |
-
-![TVSupplier Main Screen](images/tvsupplier-screenshot-main-small.png)
-|:--:| 
-| *Screenshot of the TVSupplier main screen on Android* |
-
-
+Login Screen               | Main Screen
+:-------------------------:|:-------------------------:
+![TVSupplier Login Screen](images/tvsupplier-screenshot-login-small.png) | ![TVSupplier Main Screen](images/tvsupplier-screenshot-main-small.png)
 
 React Native, React Native Camera Kit, Axios, API
 
