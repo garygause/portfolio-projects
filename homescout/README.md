@@ -4,3 +4,8 @@ Co-founder of this early dot-com era real estate listing company.  Grew the comp
 
 Custom database technology, pre-release MySQL, Perl, Apache
 
+![Homescout](images/homescout.png)
+|:--:|
+| *Screenshot of the website from the Wayback Machine.* |
+
+
