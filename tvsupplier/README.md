@@ -10,11 +10,11 @@ Released on Android and iOs as an internal company app.  Interfaces with a backe
 |:--:|
 | *Screenshot of the TVSupplier login screen on Android* |
 
+|
+
 ![TVSupplier Main Screen](images/tvsupplier-screenshot-main-small.png)
 |:--:| 
 | *Screenshot of the TVSupplier main screen on Android* |
-
-
 
 React Native, React Native Camera Kit, Axios, API
 
