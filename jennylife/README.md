@@ -18,6 +18,10 @@ React, Axios, API
 
 [Google Play Listing](https://play.google.com/store/apps/details?id=com.jennylife.jennylife&hl=en_US)
 
+![Android App](images/jennylife-android.png)
+|:--:|
+| *Screenshot of the android app.* |
+
 Java, RxJava2, Dagger2, Retrofit  
 
 
