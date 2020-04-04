@@ -10,6 +10,12 @@ Login Screen               | Main Screen
 :-------------------------:|:-------------------------:
 ![TVSupplier Login Screen](images/tvsupplier-screenshot-login-small.png) | ![TVSupplier Main Screen](images/tvsupplier-screenshot-main-small.png)
 
+Edit Screen               
+:-------------------------:
+![TVSupplier Edit Screen](images/tvsupplier-screenshot-edit-small.png) |
+
+
+
 React Native, React Native Camera Kit, Axios, API
 
 
