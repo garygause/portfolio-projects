@@ -8,6 +8,7 @@ Listed as Inventor on patents related to powerline sensor technology (2019, 2020
 AWS ECS, Docker, AWS PostgreSQL RDS, Python/Flask API, Python ETL, React Web, Jupyter, Matplotlib, Numpy
 
 ## Powerline Analytics
+# analytics heading
 
 React web app for visualizing smart sensor data placed on powerlines.  Source code fully developed and maintained by me (2020).  Part of the Powerline Project.
 
