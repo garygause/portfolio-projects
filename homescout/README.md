@@ -6,6 +6,6 @@ Custom database technology, pre-release MySQL, Perl, Apache
 
 ![Homescout](images/homescout.png)
 |:--:|
-| *Screenshot of the website from the Wayback Machine.* |
+| *Screenshot of the website from the Wayback Machine. (1997)* |
 
 
