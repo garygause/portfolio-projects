@@ -15,7 +15,7 @@ Recon Dynamics is an IoT company that uses smart sensors on power line segments 
 
 The business makes money through sales of sensor technology and by providing data to its customers.
 
-## What questions are we trying to answers?
+## What questions are we trying to answer?
 
 As this is a new product, the questions are fundamental in nature and key to the business's success.
 
