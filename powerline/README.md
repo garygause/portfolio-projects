@@ -11,7 +11,7 @@ This follows my standard Data Science Project Template.
 
 ## Understanding the Business
 
-Recon Dynamics is an IoT company that uses smart sensors on power line segments to monitor the health of power lines and detect anomalies.
+Recon Dynamics is an IoT company that uses smart sensors on power line segments to monitor the health of power lines and detect anomalies.  Powerline is the name of their branded product offering.
 
 The business makes money through sales of sensor technology and by providing data to its customers.
 
