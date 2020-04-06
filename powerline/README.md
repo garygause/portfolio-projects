@@ -42,7 +42,7 @@ A data dictionary was created to identify the fields in the raw dataset and thei
 
 Although not part of every data science project, this project required development of ETL (Extract, Transform, Load) scripts as well as the Data Architecture to get the raw data into an Amazon RDS instance for accessibility.
 
-![Data Architecture](images/powerline-analytics.png)
+![Data Architecture](images/powerline-data-pipeline.png)
 |:--:|
 | *Early version of the Data Architecture that I implemented.* |
 
