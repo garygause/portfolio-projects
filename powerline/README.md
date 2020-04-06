@@ -24,6 +24,7 @@ As this is a new product, the questions are fundamental in nature and key to the
 - Can we categorize anomalies by event type?  What types?  Potential anomalies we'd like to detect:
    - tree branch tapping the line
    - tree branch falling into the line
+   - high wind events
    - line failure (falling to the ground)
    - loose line connections that require maintenance
 
