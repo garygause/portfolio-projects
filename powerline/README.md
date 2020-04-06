@@ -5,7 +5,7 @@ In this project, I was responsible for and personally developed all of the Data 
 
 Listed as Inventor on patents related to powerline sensor technology (2019, 2020).
 
-AWS ECS, Docker, AWS PostgreSQL RDS, Python/Flask API, Python ETL, React Web, Jupyter, Matplotlib, Numpy
+AWS ECS, Docker, AWS PostgreSQL RDS, Python/Flask API, Python ETL, React Web, Jupyter, Pandas, Matplotlib, Numpy
 
 This follows my standard Data Science Project Template.
 
@@ -55,6 +55,8 @@ Although proprietary in nature, a set of Jupyter notebooks were created to query
 ## Exploratory Data Analysis
 
 Several Jupyter notebooks were created to analyze and understand the data coming in from the sensors in the field.
+
+Jupyter, Pandas, Matplotlib, Numpy
 
 ## Reporting
 
