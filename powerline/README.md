@@ -38,6 +38,7 @@ A data dictionary was created to identify the fields in the raw dataset and thei
 
 - 41 fields
 - mostly numeric sensor data
+- prototype sensor data included just over 2 million rows
 
 ## ETL
 
