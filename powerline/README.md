@@ -36,7 +36,7 @@ After completion of the initial prototype testing and deployment into the field 
 
 A data dictionary was created to identify the fields in the raw dataset and their value types, along with expected ranges of values.  Although proprietary in nature, the data took this general shape:
 
-- 9 fields
+- 41 fields
 - mostly numeric sensor data
 
 ## ETL
