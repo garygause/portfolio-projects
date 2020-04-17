@@ -1444,7 +1444,7 @@ output.to_csv('submission.csv', index=False)
 
 Final Score:
 
-- MAE: 16000
-- Rank: Top 10% (3180 out of 29990)
+- MAE: 15749
+- Rank: Top 12% (3173 out of 28296)
 
 2020
