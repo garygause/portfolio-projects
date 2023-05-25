@@ -13,7 +13,7 @@ Screen 3              | Screen 4
 
 Screen 5              
 :-------------------------:
-![Socrata Screen5](images/slides5.png) |
+![Socrata Screen5](images/slide5.png) |
 
 
 Java, Spring, Javascript, D3.
