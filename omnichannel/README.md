@@ -33,6 +33,7 @@ That last one is key.  First consolidate the services into one central service, 
 - give clients deep insight into how their journeys are doing through analytics
 - use machine learning to assist in improving journeys
 
+<!--
 ## Architecture
 
 A high volume, highly performant, serverless, event-driven architecture was created to meets the needs of the project.
@@ -40,4 +41,5 @@ A high volume, highly performant, serverless, event-driven architecture was crea
 ![Event Driven Architecture](images/architecture.png)
 |:--:| 
 | *All architecture is built and managed through Pulumi/Python for IaC.* |
+-->
 
