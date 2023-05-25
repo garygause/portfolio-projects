@@ -42,4 +42,3 @@ A high volume, highly performant, serverless, event-driven architecture was crea
 |:--:| 
 | *All architecture is built and managed through Pulumi/Python for IaC.* |
 -->
-
