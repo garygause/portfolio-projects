@@ -74,6 +74,4 @@ React web app for visualizing smart sensor data placed on powerlines.  Source co
 
 React, Axios, D3, S3, API
 
-
-
-
+2021

@@ -18,6 +18,4 @@ Edit Screen
 
 React Native, React Native Camera Kit, Axios, API
 
-
-
-
+2020
