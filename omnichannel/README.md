@@ -7,7 +7,7 @@ Analytics played a key role in improving response rates and success of campaigns
 
 In this project, I was responsible for managing and growing a small team of highly skilled developers while contributing significantly to the architecture, system design, and codebase.
 
-AWS Services: EventBright, Kinesis, PostgreSQL RDS, Lambdas, SQS, SNS, ALB, CloudFront, APIGateway, Docker, FastAPI, Python, Javascript, Angular, Pulumi (IaC), Jira, Confluence, Agile, Kanban, Scrum
+Stack: EventBright, Kinesis, PostgreSQL RDS, Lambdas, SQS, SNS, ALB, CloudFront, APIGateway, Docker, FastAPI, Python, Javascript, Angular, Pulumi (IaC), Jira, Confluence, Agile, Kanban, Scrum
 
 ## Understanding the Business
 
