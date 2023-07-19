@@ -34,9 +34,9 @@ That last one is key.  First consolidate the services into one central service, 
 ## Architecture
 
 A high volume, highly performant, serverless, event-driven architecture was created to meets the needs of the project.
-<!--
+
 ![Event Driven Architecture](images/architecture.png)
 |:--:| 
 | *All architecture is built and managed through Pulumi/Python for IaC.* |
--->
+
 2023
